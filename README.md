@@ -10,7 +10,7 @@ There are two things that remain to be done:
 1)The markers on the map aren't working.                                
 expect a commit with a new Map.jsx that fixes it, probably tomorrow     
 
-2) There isn't any sorting done though of course I get the position     
+2)There isn't any sorting done though of course I get the position     
 from the browser and I haven't really parsed the JSON                   
 as is. I've named the table of elements. I should just make a better parser,     
 probably in its own class, or use JSON.parse(). Again, expect commits.                       
