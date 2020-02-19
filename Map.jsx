@@ -67,7 +67,7 @@ export default function Map() {
 
                 //   I'm leaving my personal API key in. Pls don't abuse.
                 googleMapURL={`https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=${
-                    "AIzaSyBRPPStfquMtMgm-fcxqX1gi9xiYVNiXB8"
+                    "[PLS USE YOUR OWN API KEY]"
                     }`}
                 loadingElement={<div style={{ height: `100%`}} />}
                 containerElement={<div style={{ height: `100%`}} />}
